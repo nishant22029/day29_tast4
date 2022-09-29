@@ -1,0 +1,32 @@
+body{
+    background-color: brown;
+}
+h1{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    
+}
+h1:hover{
+    color: lightblue;
+}
+#box1{
+    background-image: linear-gradient(rgb(113, 234, 238),rgb(96, 149, 248),rgb(115, 115, 236));
+    font-size: 50px;
+    padding: 10px;
+    margin: 10px;
+
+}
+#box1>p{
+    color: rgb(100, 7, 7);
+}
+#box2>p{
+    color: rgb(27, 48, 6);
+}
+#box2{
+    background-image: linear-gradient(rgb(113, 234, 238),rgb(96, 149, 248),rgb(115, 115, 236));
+    font-size: 50px;
+    padding: 10px;
+    margin: 10px;
+
+}
